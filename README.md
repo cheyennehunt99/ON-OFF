@@ -1,7 +1,7 @@
 # ON-OFF
 
 ## Preview
-![Image](sample/tracker.png)
+![GIF](sample/tracker.gif)
 
 
 Insert your daily budget while online or offline.
