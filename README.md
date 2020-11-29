@@ -4,11 +4,7 @@
 ![Image](sample/tracker.png)
 
 
-User is able to successfully track their workout progess!
-
-![Image](samples/track.png)
-
-
+Insert your daily budget while online or offline.
 
 ## Table of contents
 
